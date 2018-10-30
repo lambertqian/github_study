@@ -7,3 +7,4 @@ dev branch\n
 dev branch 2\n
 master branch 
 master 1 feature1
+dev 1
