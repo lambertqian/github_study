@@ -8,3 +8,4 @@ dev branch 2\n
 master branch 
 master 1 feature1
 dev 1
+fixed issue-002 
