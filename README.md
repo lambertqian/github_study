@@ -5,3 +5,4 @@ Git tracks changes.
 test only commit
 dev branch\n
 dev branch 2\n
+master branch 
